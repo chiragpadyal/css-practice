@@ -1,2 +1,2 @@
-# css-practise
+# css-practice
 css practice from devchallenges.io
